@@ -19,6 +19,9 @@
 // -Kanji us used to write native Japanese words, or words of Chinese origin.
 
 // Lesson #5
+// arigato = Thank you
+// sumimasen = excuse me/ I'm sorry
+// wa doko desu ka = Where is ...?
 // Lesson #6
 
 /////////////////// Section 2
