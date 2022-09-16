@@ -12,3 +12,10 @@
 // the time!
 // Let's consider the word わさび (wasabi).
 // "W" ,"S", and "B" sounds in this Japanese word are identical to English.
+
+
+// Lesson #4 RTCIceTransport
+// -3 different scripts used to write Japanese.
+// -Hiragana is used to write functional words and particles.
+// -Katakana is used to write foreign words and names. 
+// -Kanji us used to write native Japanese words, or words of Chinese origin.
