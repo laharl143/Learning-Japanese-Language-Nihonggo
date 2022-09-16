@@ -1,21 +1,29 @@
 //  Nihonggo notes
-
+/////////////////// Section 1
 // Lesson # 2
+// -Japanese is a 'mora-timed' language; syllables are pronounced equally. 
+// -Japanese characters can represent a vowel, a consonant and a vowel, or a single consonant sound 
+// -Nearly all sounds in Japanese are identical to English. 
+// -Only a handful of new sounds to learn.
 
-// - a vowel, e.g. あ (a)
-// - made up of one consonant and one vowel, e.g. か (ka)
-// - ん (n), which is a consonant sound on its own.
-// Now you know the possible sounds that make up a Japanese *character*, but let's look at
-// ALL the sounds in Japanese collectively.
-// You already know roughly 80% of ALL sounds in Japanese. That means that if you were to
-// simply imitate a Japanese speaker, your pronunciation would be correct roughly 80% of
-// the time!
-// Let's consider the word わさび (wasabi).
-// "W" ,"S", and "B" sounds in this Japanese word are identical to English.
+// Lesson # 3
+// Word Order; subject, object, verb, or "SOV".
+// Topic-prominent language; topic is the focus.
+// Usually omits the subject.
+// Create basic sentences; object + verb.
 
-
-// Lesson #4 RTCIceTransport
+// Lesson #4 
 // -3 different scripts used to write Japanese.
 // -Hiragana is used to write functional words and particles.
 // -Katakana is used to write foreign words and names. 
 // -Kanji us used to write native Japanese words, or words of Chinese origin.
+
+// Lesson #5
+// Lesson #6
+
+/////////////////// Section 2
+/////////////////// Section 3
+/////////////////// Section 4
+/////////////////// Section 5
+/////////////////// Section 6
+/////////////////// Section 7
