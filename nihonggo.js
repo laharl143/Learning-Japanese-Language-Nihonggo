@@ -1,1 +1,3 @@
-Nihonggo notes
+// Nihonggo notes
+
+Nice notes
